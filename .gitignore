@@ -1,0 +1,13 @@
+# Visual Studio folders
+.vs/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
